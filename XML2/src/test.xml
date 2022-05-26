@@ -1,0 +1,12 @@
+<?xml version = "1.0"?>
+
+<greeting>
+    Hello, World!
+</greeting>
+
+
+<!--Thừa tài liệu nó in ra lỗi-->
+<greeting>
+    Heolo, World!
+</greeting>
+
